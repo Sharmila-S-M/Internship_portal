@@ -395,7 +395,7 @@ function Portal() {
       <footer className="site-footer">
         <Link to="/" className="brand">
           <span className="brand-mark">S</span>
-          <span>Intern<span className="brand-accent">Sphere</span></span>
+          <span>STUDENT<span className="brand-accent">INTERN SEARCH</span></span>
         </Link>
         <p>Connecting students with opportunities to grow.</p>
       </footer>
